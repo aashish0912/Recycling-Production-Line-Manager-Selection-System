@@ -6,7 +6,6 @@ This repository contains a full-stack equivalent system designed to evaluate and
 
 ### 📸 Dashboard Preview
 ![Dashboard Preview](dashboard-screenshot.png)
-> *Note: Please replace `dashboard-screenshot.png` with an actual screenshot of your running application.*
 
 - **Database Design**: MySQL-compatible schema with triggers for auto-updating rankings.
 - **AI Simulation**: Prompts for evaluating Crisis Management, Sustainability, and Motivation.
