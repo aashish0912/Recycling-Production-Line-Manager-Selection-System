@@ -5,7 +5,18 @@ This repository contains a full-stack equivalent system designed to evaluate and
 ## 🚀 Features
 
 ### 📸 Dashboard Preview
-![Dashboard Preview](dashboard-screenshot.png)
+
+#### Light Mode - Top 10 Leaderboard & Skill Heatmap
+![Light Mode Dashboard](normal.png)
+
+#### Dark Mode - Top 10 Leaderboard & Skill Heatmap
+![Dark Mode Dashboard](nightmode.png)
+
+#### Candidates List
+![Candidates List](candidates%20list.png)
+
+#### Search Results - Updated List & Heatmap
+![Search Results](update%20list%20after%20search.png)
 
 - **Database Design**: MySQL-compatible schema with triggers for auto-updating rankings.
 - **AI Simulation**: Prompts for evaluating Crisis Management, Sustainability, and Motivation.
